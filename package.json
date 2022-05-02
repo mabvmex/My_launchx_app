@@ -1,10 +1,11 @@
 {
-  "name": "ejercicio_2-spiderverse",
+  "name": "my_launchx_app",
   "version": "1.0.0",
-  "description": "Ejercicio de práctica - Spiderverse",
+  "description": "app-demo-semana-3",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/jest"
+    "test": "node ./node_modules/.bin/jest ",
+    "start": "node index.js"
   },
   "author": "mabvmex",
   "license": "ISC",
